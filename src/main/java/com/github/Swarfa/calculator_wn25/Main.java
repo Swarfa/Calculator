@@ -1,4 +1,4 @@
-package com.github.davidh455.calculator_wn25;
+package com.github.swarfa.calculator_wn25;
 
 public class Main {
     public static void main(String[] args) {
