@@ -1,4 +1,4 @@
-package com.github.davidh455.calculator_wn25;
+package com.github.swarfa.calculator_wn25;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
